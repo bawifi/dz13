@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.card {
+  width: 320px;
+  margin: 0 auto;
+  padding: 24px;
+  border: 1px solid #ccc;
+  text-align: center;
+}
+
+.avatar {
+  width: 100px;
+  height: 100px;
+  margin: 0 auto 16px;
+  border: 3px solid #2563eb;
+  border-radius: 50%;
+  background: #dbeafe;
+}
+
+.card h1 {
+  margin-bottom: 12px;
+}
+
+.card p {
+  margin-bottom: 16px;
+}
+
+.note {
+  margin-top: 24px;
+}
+
+.note h2 {
+  margin-bottom: 8px;
+}
+
+.note p {
+  margin-bottom: 8px;
+}
